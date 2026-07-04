@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\BBL_test\\test_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03BF86E3-6A10-BE92-C8CE-D75D4B90764F}|test_01.csproj|c:\\code\\bbl_test\\test_01\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BF86E3-6A10-BE92-C8CE-D75D4B90764F}|test_01.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BF86E3-6A10-BE92-C8CE-D75D4B90764F}|test_01.csproj|c:\\code\\bbl_test\\test_01\\constants\\statuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BF86E3-6A10-BE92-C8CE-D75D4B90764F}|test_01.csproj|solutionrelative:constants\\statuscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BF86E3-6A10-BE92-C8CE-D75D4B90764F}|test_01.csproj|c:\\code\\bbl_test\\test_01\\wrapper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BF86E3-6A10-BE92-C8CE-D75D4B90764F}|test_01.csproj|solutionrelative:wrapper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Code\\BBL_test\\test_01\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Code\\BBL_test\\test_01\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T02:37:19.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Code\\BBL_test\\test_01\\Wrapper\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Wrapper\\ApiResponse.cs",
+              "ToolTip": "C:\\Code\\BBL_test\\test_01\\Wrapper\\ApiResponse.cs",
+              "RelativeToolTip": "Wrapper\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T02:38:27.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusCode.cs",
+              "DocumentMoniker": "C:\\Code\\BBL_test\\test_01\\Constants\\StatusCode.cs",
+              "RelativeDocumentMoniker": "Constants\\StatusCode.cs",
+              "ToolTip": "C:\\Code\\BBL_test\\test_01\\Constants\\StatusCode.cs",
+              "RelativeToolTip": "Constants\\StatusCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T02:38:08.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
